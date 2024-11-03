@@ -1,4 +1,4 @@
-# tic-tac-toe
+# [tic-tac-toe](https://github.com/UniBreakfast/tic-tac-toe)
 
 A Tic-tac-toe game with opponent trying not to lose.
 
